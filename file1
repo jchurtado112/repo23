@@ -1,6 +1,2 @@
-test content file1 in dev env
-<<<<<<< HEAD
 adding a hotfix in master
-=======
 content from dev branch
->>>>>>> dev
